@@ -31,7 +31,7 @@ To get started with the Shop App, follow these steps:
 
 2. **Clone the repository:**
    ```bash
-   cd shop-app
+   cd ui_travel_app
    ```
 3. **Install dependencies:**
    ```bash
